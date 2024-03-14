@@ -1,4 +1,4 @@
-#1071. Greatest Common Divisor of Strings
+#1071. Greatest Common Divisor of Strings [실패]
 """여기서 GCD의 정의 : GCD를 1번 이상 concat해서 해당 str이 나오는 경우
 
 1. 먼저 GCD의 후보로, str1과 str2 중 짧은 친구를 할당한다.
