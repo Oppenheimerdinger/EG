@@ -1,3 +1,7 @@
+# list는 그냥 바로max 때려버리면 element 중 max값 나올 수 있다. 
+""" argmax는 아래처럼 구할 수도 있음
+"""
+
 def kidsWithCandies(candies, extraCandies):
     #list element 중 max값을 찾는다
     #extra candies를 원래 candies list에 각각 더했을때 max보다 크면 True 아니면 False
