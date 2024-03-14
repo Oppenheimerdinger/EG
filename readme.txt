@@ -4,7 +4,7 @@ git commit -m "240312"
 git push
 
 
-- 설치 방법 ---------------------------
+-------------------- 설치 방법 ---------------------------
 git clone https://github.com/Oppenheimerdinger/EG.git
 cd EG
 git branch
