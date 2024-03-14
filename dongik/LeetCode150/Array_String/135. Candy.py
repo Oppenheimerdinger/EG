@@ -16,7 +16,6 @@ step1의 오름차순의 끄트머리를
 step2에서 떨어뜨리지 않게 조심
 
 edge case: 빈 리스트가 인풋
-
 '''
 
 def candy(ratings):
