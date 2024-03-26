@@ -1,4 +1,5 @@
 '''
+<핵심: 아래 매커니즘을 떠올리기>
 str1의 divisor 를 큰 것부터 찾기
 이게 str2의 divisor이면 그것이 GCD
 

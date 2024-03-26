@@ -4,7 +4,7 @@ candies[i]: int array
 extraCandies: int
 result: bullian array
 
-max(candies) <= extraCandies + candies[i] 이면
+max(candies) <= extraCandies + candies[i] : 이 식을 만들어 내는 것이 핵심
 result[i] = True 
 
 python 은 list에서 max를 바로 찾을 수 있음.
